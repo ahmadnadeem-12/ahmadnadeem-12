@@ -31,8 +31,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadnadeem-12&" alt="ahmadnadeem-12" /></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmadnadeem-12/ahmadnadeem-12/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmadnadeem-12/ahmadnadeem-12/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ahmadnadeem-12/ahmadnadeem-12/output/pacman-contribution-graph.svg">
-</picture>
