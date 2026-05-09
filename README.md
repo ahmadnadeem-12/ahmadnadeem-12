@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadnadeem-12" alt="ahmadnadeem-12" /></a> </p>
 
-- 🔭 I’m currently working on [The Computing Society (TCS)](https://tcs-u3f.vercel.app/)
+- 🔭 I’m currently working on [The Computing Society (TCS)](https://thecomputingsociety.vercel.app/)
 
 - 🌱 I’m currently learning **GenAI and DevOps**
 
